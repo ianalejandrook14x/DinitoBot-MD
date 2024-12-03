@@ -13,7 +13,7 @@
  
 ---------
 ![github stats](https://github-readme-stats.vercel.app/api?username=ianalejandrook14x&show_icons=true&theme=chartreuse-dark)
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=LOBO50K&layout=compact&theme=chartreuse-dark)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=ianalejandrook14x&layout=compact&theme=chartreuse-dark)
 
 ---------
 <div align="center">
