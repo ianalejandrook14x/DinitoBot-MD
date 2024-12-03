@@ -19,16 +19,16 @@
 "eslint": "eslint .",
 "eslintfix": "eslint --fix ."
 },
-"homepage": "https://github.com/ianalejandrook15x/AkariBot-MD",
+"homepage": "https://github.com/ianalejandrook14x/DinitoBot-MD",
 "author": {
-"name": "ianalejandrook15x"
+"name": "ianalejandrook14x"
 },
 "repository": {
 "type": "git",
-"url": "git+https://github.com/ianalejandrook15x/AkariBot-MD.git"
+"url": "git+https://github.com/ianalejandrook15x/DinitoBot-MD.git"
 },
 "bugs": {
-"url": "https://github.com/ianalejandrook15x/AkariBot-MD/issues"
+"url": "https://github.com/ianalejandrook15x/DinitoBot-MD/issues"
 },
 "license": "GPL-3.0-or-later",
 "dependencies": {
