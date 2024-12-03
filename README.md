@@ -1,15 +1,17 @@
-# DinitoBot-MD
+# DinitoBot-MD ✧
 > [!IMPORTANT]\
-> Este proyecto **todavia sigue en desarrollo**, creador `Dinito.xtlv`, desarrollador `ianalejandrook15x`.
+> Este proyecto **todavia sigue en desarrollo por lo que pueda que no funcione correctamente en ciertos comandos**, creador principal `Dinito.xtlv`, desarrollador `ianalejandrook15x`.
 
 ## [Pɾσɳƚσ ҽɳ ҽʅ Ⴆσƚ](https://github.com/ianalejandrook14x/DinitoBot-MD)
 - [x] Configuración de grupo
 - [x] antidelete, antilink, antiarabes, etc
-- [x] Bienvenida personalizada
 - [x] Imágenes a url
 - [x] Juego RPG
-- [ ] Otros
-
+---------
+## [Contactos](https://github.com/ianalejandrook14x/DinitoBot-MD)
+ <a href="https://wa.me/543876639332"><img alt="Dinito.xtlv" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>    
+ 
+---------
 ![github stats](https://github-readme-stats.vercel.app/api?username=ianalejandrook14x&show_icons=true&theme=chartreuse-dark)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=LOBO50K&layout=compact&theme=chartreuse-dark)
 
