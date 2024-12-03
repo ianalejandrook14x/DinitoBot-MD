@@ -17,7 +17,7 @@ global.mods = ['50587043137']
 global.prems = ['50587043137']
 
 global.sessions = 'session'
-global.jadi = 'jadibot'
+global.jadi = 'jadibts'
 global.vs = '0.0.1'
 global.languaje = 'Español'
 global.nameqr = 'Bot'
